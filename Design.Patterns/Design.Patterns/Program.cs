@@ -6,10 +6,8 @@ namespace Design.Patterns
     {
         static void Main(string[] args)
         {
-            B o = new A();
-            Console.WriteLine(o.a);
-            Console.WriteLine(o.m());
-            Console.ReadKey();
+            Operational.Interpreter.Client client = new Operational.Interpreter.Client("MCMXXVIII");
+            client.RomanToDecimal();
         }
     }
 

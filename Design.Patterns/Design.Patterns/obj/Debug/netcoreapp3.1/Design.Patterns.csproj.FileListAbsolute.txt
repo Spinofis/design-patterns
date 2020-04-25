@@ -10,3 +10,4 @@ C:\Nauka\design-patterns\Design.Patterns\Design.Patterns\bin\Debug\netcoreapp3.1
 C:\Nauka\design-patterns\Design.Patterns\Design.Patterns\obj\Debug\netcoreapp3.1\Design.Patterns.dll
 C:\Nauka\design-patterns\Design.Patterns\Design.Patterns\obj\Debug\netcoreapp3.1\Design.Patterns.pdb
 C:\Nauka\design-patterns\Design.Patterns\Design.Patterns\obj\Debug\netcoreapp3.1\Design.Patterns.genruntimeconfig.cache
+C:\Nauka\design-patterns\Design.Patterns\Design.Patterns\obj\Debug\netcoreapp3.1\Design.Patterns.csprojAssemblyReference.cache

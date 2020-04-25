@@ -8,7 +8,6 @@
   <ItemGroup>
     <Folder Include="Constructional\Singleton\" />
     <Folder Include="Constructional\Prototype\" />
-    <Folder Include="Operational\" />
     <Folder Include="Structural\Facade\" />
   </ItemGroup>
 
